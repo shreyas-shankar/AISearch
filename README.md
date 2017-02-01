@@ -12,17 +12,14 @@ The algorithms have been implemented keeping in mind the input format specificat
 
 #Input Format
 
-<ALGO>
-<START STATE>
-<GOAL STATE>
-<NUMBER OF LIVE TRAFFIC LINES>
-<... LIVE TRAFFIC LINES ...>
-<NUMBER OF SUNDAY TRAFFIC LINES>
-<... SUNDAY TRAFFIC LINES ..
-
-SUNDAY TRAFFIC LINES provide the heuristic to be used for the A* Algorithm.
+Algorithm
+Start State 
+Goal State
+Number of Traffic Lines
+Live Traffic Line Data
+Number of Sunday Traffic (Heuristic Data)
+Heuristic Data.
 
 #Output Format
 
-<STATE>
-<ACCUMULATED TRAVEL TIME FROM START STATE UNTIL NEXT NODE>
+State Accumulated-Time-Until-Current-Node 
