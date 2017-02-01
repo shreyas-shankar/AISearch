@@ -23,5 +23,6 @@ The algorithms have been implemented keeping in mind the input format specificat
 SUNDAY TRAFFIC LINES provide the heuristic to be used for the A* Algorithm.
 
 #Output Format
+
 <STATE>
 <ACCUMULATED TRAVEL TIME FROM START STATE UNTIL NEXT NODE>
