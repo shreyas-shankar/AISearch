@@ -12,13 +12,13 @@ The algorithms have been implemented keeping in mind the input format specificat
 
 #Input Format
 
-Algorithm
-Start State 
-Goal State
-Number of Traffic Lines
-Live Traffic Line Data
-Number of Sunday Traffic (Heuristic Data)
-Heuristic Data.
+1.Algorithm
+2.Start State 
+3.Goal State
+4.Number of Traffic Lines
+5.Live Traffic Line Data
+6.Number of Sunday Traffic (Heuristic Data)
+7.Heuristic Data.
 
 #Output Format
 
