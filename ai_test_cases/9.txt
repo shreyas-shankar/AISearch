@@ -1,0 +1,17 @@
+DFS
+A
+Z
+7
+A B 4
+A C 3
+A Z 2
+B E 3
+B Z 5
+C E 4
+E Z 2
+5
+A 2
+Z 4
+C 3
+B 5
+E 2

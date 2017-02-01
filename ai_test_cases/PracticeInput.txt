@@ -1,0 +1,51 @@
+A*
+A
+S
+26
+A B 4
+A C 5
+A D 6
+B E 3
+B F 2
+B G 6
+C G 1
+C H 3
+D I 7
+D J 4
+E K 2
+E L 3
+H M 5
+I M 6
+I N 2
+J N 3
+K O 4
+L O 5
+L M 6
+M P 7
+N P 2
+N S 5
+N T 1
+P Q 4
+P R 2
+R S 3
+20
+A 19
+B 18
+C 17
+D 16
+E 15
+F 14 
+G 13
+H 12
+I 11
+J 10
+K 9
+L 8
+M 7
+N 6
+O 5
+P 4
+Q 3
+R 2 
+S 0
+T 1

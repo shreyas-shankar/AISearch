@@ -1,0 +1,2 @@
+UCS A E 7 A F 1 F D 1 A C 2 C B 1 B E 2 D B 2 E F 1
+6 A 1 B 1 C 1 D 1 E 1 F 0
